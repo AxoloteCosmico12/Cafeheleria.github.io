@@ -1,5 +1,5 @@
 firebase.initializeApp({
-apiKey: "AIzaSyDtohQgIk-MT_ZySpNjCuvLnulOb-VLImg",
+ apiKey: "AIzaSyDtohQgIk-MT_ZySpNjCuvLnulOb-VLImg",
   authDomain: "cafeheleria.firebaseapp.com",
   projectId: "cafeheleria",
   storageBucket: "cafeheleria.appspot.com",
